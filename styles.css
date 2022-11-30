@@ -66,7 +66,7 @@ dialog{
     font-size: 22px;
 }
 .close{
-    background: #111b21;
+    background: #8e9294;
     border: none;
     border-radius: 50%;
     height: 60px;
@@ -95,7 +95,7 @@ dialog{
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 0;  
-    color: aliceblue; 
+    color: rgb(159, 179, 194); 
     gap: 50px; 
     row-gap: 20px ;
 
@@ -149,4 +149,15 @@ dialog{
     color: rgb(215, 208, 208);
     font-weight: bold;
     border-radius: 3px;
+}
+.mb-3{
+    border-radius: 4px;
+    padding: right;
+    background-color: #414142;
+    gap: 2px;
+}
+.choose file{
+    background-color: #02020a;
+    border-radius: 4px;
+    gap: 12px;
 }
